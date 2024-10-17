@@ -3,9 +3,6 @@
 <h1>Hello there! I'm Juan. 👋</h1><br/>
 I'm a technology enthusiast, I like to learn, solve problems and have new challenges.<br/>
 I am a Full Stack developer with the ability to develop web projects and applications with JavaScript, React.js, React Native, Node.js, Redux, among others.<br/>
-My experience has been mainly in the academic field:<br/>
--For 3 years I studied software engineering.<br/>
--I attended the henry bootcamp, where I was able to exercise my technical and social skills as a developer.<br/>
 Currently I'm focused on web development, the use of AGILE methodologies and learning new platforms and technologies for their application in various fields.<br/>
 <!-- <b>Do you want to contact me?</b> <br/>
 📫  juannmcuevas97@gmail.com <br/>
@@ -14,9 +11,6 @@ Currently I'm focused on web development, the use of AGILE methodologies and lea
 <h1>Hola, Soy Juan. 👋</h1><br/>
 Soy un gran entusiasta de la tecnología, me gusta aprender, trabajar en equipo, resolver problemas y tener nuevos desafíos.<br/>
 Soy un desarrollador Full Stack con capacidad de realizar proyectos web y aplicaciones con JavaScript, React.js, React Native, Node.js, Redux, entre otros.<br/>
-Mi experiencia ah sido principalmente en el ámbito académico:<br/>
--Durante 3 años me desempeñe como estudiante de ingeniería en informática.<br/>
--Cursé el bootcamp henry, donde pude ejercitar mis capacidades técnicas y sociales como desarrollador .<br/>
 Actualmente estoy enfocado en el desarrollo web, el uso de metodologías agiles y el aprendizaje de nuevas plataformas y tecnologías para su aplicación en diversos campos.
 <br/>
 <!-- <b>¿Quieres contactarme?</b> <br/>
